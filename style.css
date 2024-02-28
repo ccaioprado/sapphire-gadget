@@ -129,4 +129,8 @@ margin: 10%;
     .apresentacao__section{
        width: auto;
     }
+
+    .loja{
+        width: 80%;
+    }
 }
